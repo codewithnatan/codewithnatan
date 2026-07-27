@@ -13,7 +13,7 @@ I am on an intensive journey to becoming a **Junior Frontend Developer**. My foc
 ---
 
 ### 🛠️ What I'm Working On
-* 👨‍💻 Deepening my modern JavaScript skills ([Check out my JS Fundamentals] ([https://github.com/codewithnatan/road-to-fullstack/tree/main/01-javascript-fundamentals]))
+* 👨‍💻 Deepening my modern JavaScript skills ([Check out my JS Fundamentals] ([https://github.com/codewithnatan/road-to-fullstack]))
 * 🏗️ Preparing the architecture for a Talent Pool App using Vue.js 3 and WordPress REST-API
 
 <!--

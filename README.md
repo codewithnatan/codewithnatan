@@ -7,13 +7,13 @@ I am on an intensive journey to becoming a **Junior Frontend Developer**. My foc
 
 ### 💻 My Tech Stack
 * **Languages:** JavaScript (ES6+), HTML5, CSS3
-* **Tools:** VS Code, Git, GitHub, Mac Terminal (Zsh)
+* **Tools:** Git, GitHub
 * **Currently Learning:** Stepping full into **Vue.js 3** next!
 
 ---
 
 ### 🛠️ What I'm Working On
-* 👨‍💻 Deepening my modern JavaScript skills ([Check out my JS Basic] (https://github.com/codewithnatan/js-basics))
+* 👨‍💻 Deepening my modern JavaScript skills ([Check out my JS Fundamentals] ([https://github.com/codewithnatan/road-to-fullstack/tree/main/01-javascript-fundamentals]))
 * 🏗️ Preparing the architecture for a Talent Pool App using Vue.js 3 and WordPress REST-API
 
 <!--
